@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffcad4&height=200&section=header&text=Welcome!%20I'm%20Jini!%20🐰&fontSize=35&fontColor=ffffff)  
 
-## 🍓 Hello, I'm Jini! 🍒  
+## 🍓 Hello, I'm Gi-ang-Jin(기앙진)! 🍒  
 
 💡 **백엔드 개발자로서 더 빠르고 안정적인 서비스를 제공하기 위해 고민하고 있습니다.**  
 🚀 **효율적인 데이터 처리, 성능 최적화, 유지보수성 높은 API 설계**를 중심으로 개발하고 있어요.  
@@ -29,5 +29,4 @@
 ## 🍡 Contact 🍡  
 📧 **Email**: mkj03096@naver.com  
 
----
-⭐️ ** 함께 성장해요!** 🐻🎀  
+ 

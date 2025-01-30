@@ -18,7 +18,7 @@
 
 ---
 ## 🌸 My Projects 🌸  
-🎯 **JTPI Backend** - API 성능 최적화 & QueryDSL 동적 쿼리  
+🎯 **JTPI Backend**  
 
 ---
 ## 🍰 GitHub Stats 🍰  

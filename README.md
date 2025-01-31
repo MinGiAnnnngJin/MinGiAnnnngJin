@@ -1,4 +1,5 @@
-<img src="https://github.com/MinGiAnnnngJin/MinGiAnnnngJin/blob/main/me.webp" width="800" height="400">
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,add8e6,d4aaff&height=200&section=header&text=Welcome!%20I'm%20Gi-ang-Jin!%20💖&fontSize=35&fontColor=ffffff)
+
 
 
 ## 🍓 Hello, I'm Gi-ang-Jin(기앙진)! 🍒  

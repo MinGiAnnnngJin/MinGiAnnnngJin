@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcad4&height=200&section=header&text=Welcome!%20I'm%20Jini!%20🐰&fontSize=35&fontColor=ffffff)  
+<img src="https://github.com/MinGiAnnnngJin/MinGiAnnnngJin/blob/main/me.webp" width="800" height="400">
+
 
 ## 🍓 Hello, I'm Gi-ang-Jin(기앙진)! 🍒  
 

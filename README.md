@@ -1,4 +1,4 @@
-
+<img src="https://github.com/MinGiAnnnngJin/MinGiAnnnngJin/blob/main/me.webp" width="800" height="400">
 
 
 ## 🍓 Hello, I'm Gi-ang-Jin(기앙진)! 🍒  
